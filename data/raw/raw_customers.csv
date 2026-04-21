@@ -1,0 +1,316 @@
+customer_id,name,email,phone,birth_date,city,state,segment,salesforce_id,created_at
+C00001,Customer Name 1,customer1@email.com,(21) 93442-9938,1993-03-28,Niterói,RJ,VIP,SF00000001,2022-04-07 00:00:00
+C00002,Customer Name 2,customer2@email.com,(11) 97049-3426,1988-05-26,Campinas,SP,Regular,SF00000002,2019-08-29 00:00:00
+C00003,Customer Name 3,customer3@email.com,(71) 93088-1685,1961-05-17,Maringá,PR,VIP,SF00000003,2020-09-19 00:00:00
+C00004,Customer Name 4,customer4@email.com,,1964-02-12,Canoas,RS,Prospect,SF00000004,2018-05-10 00:00:00
+C00005,Customer Name 5,customer5@email.com,(61) 94441-5088,1993-06-20,Canoas,RS,Regular,SF00000005,2019-03-27 00:00:00
+C00006,Customer Name 6,customer6@email.com,(21) 96794-7658,1983-10-18,Juiz de Fora,MG,VIP,SF00000006,2020-02-21 00:00:00
+C00007,Customer Name 7,customer7@email.com,(31) 94878-3662,1969-08-25,Petrópolis,RJ,Prospect,SF00000007,2018-03-19 00:00:00
+C00008,Customer Name 8,customer8@email.com,(31) 97755-1406,1976-11-15,Rio de Janeiro,RJ,Regular,SF00000008,2022-12-12 00:00:00
+C00009,Customer Name 9,customer9@email.com,(31) 96442-7745,1978-10-31,Feira de Santana,BA,Prospect,SF00000009,2021-07-08 00:00:00
+C00010,Customer Name 10,customer10@email.com,(41) 95371-3608,1980-05-07,Santos,SP,Regular,SF00000010,2022-09-12 00:00:00
+C00011,Customer Name 11,customer11@email.com,(21) 97267-1634,1975-04-17,São Paulo,SP,Prospect,SF00000011,2019-09-13 00:00:00
+C00012,Customer Name 12,customer12@email.com,(81) 94644-4269,1967-01-22,Niterói,RJ,VIP,SF00000012,2022-08-19 00:00:00
+C00013,Customer Name 13,customer13@email.com,34-1844-5398,1976-08-06,Caxias do Sul,RS,Prospect,SF00000013,2020-04-15 00:00:00
+C00014,Customer Name 14,customer14@email.com,(41) 94652-1387,1973-12-23,Porto Alegre,RS,Prospect,SF00000014,2022-08-08 00:00:00
+C00015,Customer Name 15,customer15@email.com,(41) 97528-6378,1992-05-14,Campinas,SP,Regular,SF00000015,2023-08-18 00:00:00
+C00016,Customer Name 16,customer16@email.com,,2025-09-21,Caxias do Sul,RS,Regular,SF00000016,2023-04-16 00:00:00
+C00017,Customer Name 17,customer17@email.com,(61) 99346-7548,1994-11-05,Feira de Santana,BA,VIP,SF00000017,2018-09-13 00:00:00
+C00018,Customer Name 18,customer18@email.com,(91) 96425-1452,1985-06-17,Porto Alegre,RS,Prospect,SF00000018,2019-07-20 00:00:00
+C00019,Customer Name 19,customer19@email.com,(21) 95279-3925,1986-09-29,Goiânia,GO,Prospect,SF00000019,2023-10-26 00:00:00
+C00020,Customer Name 20,customer20@email.com,(51) 91626-2776,1963-10-23,Curitiba,PR,Prospect,SF00000020,2020-04-29 00:00:00
+C00021,Customer Name 21,customer21@email.com,(71) 96663-6139,1999-08-16,Campinas,SP,Prospect,SF00000021,2021-08-24 00:00:00
+C00022,Customer Name 22,customer22@email.com,(71) 99379-2894,1962-05-11,Belo Horizonte,MG,VIP,SF00000022,2023-05-14 00:00:00
+C00023,Customer Name 23,customer23@email.com,(71) 94114-5173,1966-12-24,Feira de Santana,BA,Regular,SF00000023,2023-11-23 00:00:00
+C00024,Customer Name 24,customer24@email.com,(11) 98144-1027,1967-01-23,Florianópolis,SC,Prospect,SF00000024,2022-03-24 00:00:00
+C00025,Customer Name 25,customer25@email.com,(91) 99821-4228,1993-11-03,Maringá,PR,VIP,SF00000025,2021-07-09 00:00:00
+C00026,Customer Name 26,customer26@email.com,(61) 98066-2146,1987-09-18,Juiz de Fora,MG,VIP,SF00000026,2019-12-11 00:00:00
+C00027,Customer Name 27,customer27@email.com,(61) 96143-3041,1962-03-26,,,VIP,SF00000027,2023-02-26 00:00:00
+C00028,Customer Name 28,customer28@email.com,(51) 99308-6067,1990-03-26,Blumenau,SC,VIP,SF00000028,2023-12-24 00:00:00
+C00029,Customer Name 29,customer29@email.com,(71) 96344-7592,1963-08-29,Rio de Janeiro,RJ,VIP,SF00000029,2021-11-03 00:00:00
+C00030,Customer Name 30,customer30@email.com,(51) 93085-4143,1972-03-16,Petrópolis,RJ,Regular,SF00000030,2021-12-22 00:00:00
+C00031,Customer Name 31,customer31@email.com,,1979-11-16,Feira de Santana,BA,VIP,SF00000031,2020-12-18 00:00:00
+C00032,Customer Name 32,customer32@email.com,(51) 97653-9977,1989-09-10,Petrópolis,RJ,Regular,SF00000032,2023-06-07 00:00:00
+C00033,Customer Name 33,customer33@email.com,(11) 95978-5700,1979-01-08,Florianópolis,SC,Prospect,SF00000033,2020-02-27 00:00:00
+C00034,Customer Name 34,customer34@email.com,(41) 98043-6279,1981-10-14,Blumenau,SC,Prospect,SF00000034,2020-10-06 00:00:00
+C00035,Customer Name 35,customer35@email.com,(81) 98238-8244,1987-03-26,Londrina,PR,Regular,SF00000035,2021-02-16 00:00:00
+C00036,Customer Name 36,customer36@email.com,(41) 99375-8752,1979-10-30,Campinas,SP,Regular,SF00000036,2021-05-07 00:00:00
+C00037,Customer Name 37,customer37@email.com,(31) 92389-5649,1978-07-30,Goiânia,GO,Prospect,SF00000037,2020-07-10 00:00:00
+C00038,Customer Name 38,customer38@email.com,,1972-04-02,Rio de Janeiro,RJ,VIP,SF00000038,2021-05-04 00:00:00
+C00039,Customer Name 39,customer39@email.com,(41) 96085-4680,1969-09-01,Salvador,BA,Prospect,SF00000039,2021-03-29 00:00:00
+C00040,Customer Name 40,customer40@email.com,(41) 93414-1400,1993-11-11,Petrópolis,RJ,VIP,SF00000040,2020-04-29 00:00:00
+C00041,Customer Name 41,customer41@email.com,(11) 95011-8784,1982-12-25,Londrina,PR,VIP,SF00000041,2023-06-26 00:00:00
+C00042,Customer Name 42,customer42@email.com,(21) 98461-7790,1965-02-07,Florianópolis,SC,Regular,SF00000042,2021-07-22 00:00:00
+C00043,Customer Name 43,customer43@email.com,(41) 97291-9099,1975-06-26,Caxias do Sul,RS,Regular,SF00000043,2023-05-20 00:00:00
+C00044,Customer Name 44,customer44@email.com,(71) 94997-3417,1979-04-14,Niterói,RJ,Prospect,SF00000044,2021-11-29 00:00:00
+C00045,Customer Name 45,customer45@email.com,(11) 92746-7965,1964-12-21,Campinas,SP,Prospect,SF00000045,2021-01-25 00:00:00
+C00046,Customer Name 46,customer46@email.com,(41) 93881-9486,1972-09-14,Caxias do Sul,RS,Regular,SF00000046,2021-03-24 00:00:00
+C00047,Customer Name 47,customer47@email.com,(81) 91822-5082,1990-06-03,Maringá,PR,Prospect,SF00000047,2019-05-15 00:00:00
+C00048,Customer Name 48,customer48@email.com,(21) 98478-3184,1990-06-08,Niterói,RJ,Regular,SF00000048,2022-04-05 00:00:00
+C00049,Customer Name 49,customer49@email.com,(81) 99702-6198,1986-08-09,Canoas,RS,Regular,SF00000049,2022-06-05 00:00:00
+C00050,Customer Name 50,customer50@email.com,(81) 99270-7991,1981-10-29,Niterói,RJ,Prospect,SF00000050,2021-11-14 00:00:00
+C00051,Customer Name 51,customer51@email.com,(91) 98305-3607,2026-07-18,Salvador,BA,VIP,SF00000051,2019-08-23 00:00:00
+C00052,Customer Name 52,customer52@email.com,73-8635-2615,1989-12-04,Maringá,PR,VIP,SF00000052,2021-04-04 00:00:00
+C00053,Customer Name 53,customer53@email.com,(41) 95543-9540,1973-11-01,Goiânia,GO,Regular,SF00000053,2018-06-22 00:00:00
+C00054,Customer Name 54,customer54@email.com,(81) 94919-5499,1962-01-14,Joinville,SC,Prospect,SF00000054,2021-03-24 00:00:00
+C00055,Customer Name 55,customer55@email.com,(81) 92269-5681,1969-11-21,Uberlândia,MG,VIP,SF00000055,2018-11-20 00:00:00
+C00056,Customer Name 56,customer56@email.com,(41) 95451-6502,1977-09-23,Florianópolis,SC,Regular,SF00000056,2021-11-19 00:00:00
+C00057,Customer Name 57,customer57@email.com,(61) 99849-2320,1986-11-19,Joinville,SC,Regular,SF00000057,2022-12-17 00:00:00
+C00058,Customer Name 58,customer58@email.com,(31) 93471-4788,1962-06-16,Canoas,RS,Prospect,SF00000058,2020-11-16 00:00:00
+C00059,Customer Name 59,customer59@email.com,43-6892-9401,1960-05-05,Maringá,PR,Prospect,SF00000059,2023-05-17 00:00:00
+C00060,Customer Name 60,customer60@email.com,(21) 97797-7678,1969-03-03,Niterói,RJ,Regular,SF00000060,2020-05-26 00:00:00
+C00061,Customer Name 61,customer61@email.com,(61) 99890-8633,1973-07-09,Uberlândia,MG,VIP,SF00000061,2020-04-07 00:00:00
+C00062,Customer Name 62,customer62@email.com,(71) 92020-4388,1969-06-22,Caxias do Sul,RS,Prospect,SF00000062,2021-01-15 00:00:00
+C00063,Customer Name 63,customer63@email.com,(71) 97381-1320,1994-06-03,Uberlândia,MG,Prospect,SF00000063,2021-01-17 00:00:00
+C00064,Customer Name 64,customer64@email.com,(71) 98814-1096,1966-02-26,Anápolis,GO,Prospect,SF00000064,2019-07-17 00:00:00
+C00065,Customer Name 65,customer65@email.com,(61) 95892-7389,1994-04-12,Salvador,BA,VIP,SF00000065,2019-03-24 00:00:00
+C00066,Customer Name 66,customer66@email.com,52-4768-7223,1971-06-18,Curitiba,PR,VIP,SF00000066,2020-09-07 00:00:00
+C00067,Customer Name 67,customer67@email.com,,1972-12-25,Canoas,RS,Regular,SF00000067,2020-09-20 00:00:00
+C00068,Customer Name 68,customer68@email.com,(51) 98140-8956,1974-09-19,Florianópolis,SC,Prospect,SF00000068,2018-07-27 00:00:00
+C00069,Customer Name 69,customer69@email.com,(11) 97371-6507,1965-05-19,Santos,SP,VIP,SF00000069,2023-12-16 00:00:00
+C00070,Customer Name 70,customer70@email.com,(71) 93704-8657,1960-05-06,Porto Alegre,RS,VIP,SF00000070,2020-07-13 00:00:00
+C00071,Customer Name 71,customer71@email.com,,1982-04-24,Sorocaba,SP,Prospect,SF00000071,2020-08-11 00:00:00
+C00072,Customer Name 72,customer72@email.com,(71) 91444-2375,1993-07-05,Joinville,SC,VIP,SF00000072,2018-08-04 00:00:00
+C00073,Customer Name 73,customer73@email.com,(71) 93223-8564,1979-04-26,,,Regular,SF00000073,2019-02-15 00:00:00
+C00074,Customer Name 74,customer74@email.com,,1967-11-18,Maringá,PR,VIP,SF00000074,2022-08-20 00:00:00
+C00075,Customer Name 75,customer75@email.com,(71) 96363-4467,1965-10-17,Petrópolis,RJ,VIP,SF00000075,2021-09-14 00:00:00
+C00076,Customer Name 76,customer76@email.com,(81) 96355-6529,1977-01-20,Porto Alegre,RS,Regular,SF00000076,2023-04-19 00:00:00
+C00077,Customer Name 77,customer77@email.com,(71) 95558-7906,1983-11-21,Joinville,SC,Prospect,SF00000077,2019-02-16 00:00:00
+C00078,Customer Name 78,customer78@email.com,(51) 92341-8705,1991-07-25,Porto Alegre,RS,VIP,SF00000078,2019-07-18 00:00:00
+C00079,Customer Name 79,customer79@email.com,(11) 99837-1853,1970-04-28,Goiânia,GO,Regular,SF00000079,2018-01-22 00:00:00
+C00080,Customer Name 80,customer80@email.com,(61) 94673-2124,1982-06-10,Feira de Santana,BA,Prospect,SF00000080,2019-10-09 00:00:00
+C00081,Customer Name 81,customer81@email.com,(11) 91508-5051,1985-01-23,Anápolis,GO,Regular,SF00000081,2022-07-25 00:00:00
+C00082,Customer Name 82,customer82@email.com,(41) 91333-3496,1997-05-19,Juiz de Fora,MG,VIP,SF00000082,2023-05-03 00:00:00
+C00083,Customer Name 83,customer83@email.com,40-6269-5637,1989-12-19,Curitiba,PR,Regular,SF00000083,2023-05-10 00:00:00
+C00084,Customer Name 84,customer84@email.com,(21) 94571-8619,1996-02-29,Uberlândia,MG,VIP,SF00000084,2020-03-27 00:00:00
+C00085,Customer Name 85,customer85@email.com,,1975-11-20,Porto Alegre,RS,Prospect,SF00000085,2021-03-22 00:00:00
+C00086,Customer Name 86,customer86@email.com,(21) 93683-6096,1963-03-26,Curitiba,PR,Prospect,SF00000086,2021-08-08 00:00:00
+C00087,Customer Name 87,customer87@email.com,(21) 91420-6111,1977-10-23,Feira de Santana,BA,Regular,SF00000087,2021-03-15 00:00:00
+C00088,Customer Name 88,customer88@email.com,(71) 97498-4249,1998-08-28,Feira de Santana,BA,VIP,SF00000088,2018-08-31 00:00:00
+C00089,Customer Name 89,customer89@email.com,,1993-04-14,Florianópolis,SC,Prospect,SF00000089,2019-01-02 00:00:00
+C00090,Customer Name 90,customer90@email.com,(51) 92983-1672,1961-11-24,Caxias do Sul,RS,Regular,SF00000090,2020-08-09 00:00:00
+C00091,Customer Name 91,customer91@email.com,82-5026-9180,1979-07-27,Belo Horizonte,MG,Prospect,SF00000091,2018-06-02 00:00:00
+C00092,Customer Name 92,customer92@email.com,(61) 92129-9289,1960-11-03,Anápolis,GO,Prospect,SF00000092,2019-12-19 00:00:00
+C00093,Customer Name 93,customer93@email.com,(61) 91207-7882,1980-08-15,,,VIP,SF00000093,2022-09-08 00:00:00
+C00094,Customer Name 94,customer94@email.com,(81) 92729-8102,1963-06-29,Santos,SP,Prospect,SF00000094,2019-12-22 00:00:00
+C00095,Customer Name 95,customer95@email.com,,1998-09-02,Rio de Janeiro,RJ,Prospect,SF00000095,2018-05-29 00:00:00
+C00096,Customer Name 96,customer96@email.com,(71) 93885-9548,1974-01-16,Uberlândia,MG,VIP,SF00000096,2022-06-15 00:00:00
+C00097,Customer Name 97,customer97@email.com,(51) 99817-8921,1985-10-29,Belo Horizonte,MG,Prospect,SF00000097,2023-07-23 00:00:00
+C00098,Customer Name 98,customer98@email.com,,1979-04-04,Feira de Santana,BA,Prospect,SF00000098,2020-02-03 00:00:00
+C00099,Customer Name 99,customer99@email.com,(61) 95022-2419,1985-09-20,Rio de Janeiro,RJ,VIP,SF00000099,2021-03-31 00:00:00
+C00100,Customer Name 100,customer100@email.com,(51) 98385-4995,1978-02-21,Salvador,BA,VIP,SF00000100,2018-06-03 00:00:00
+C00101,Customer Name 101,customer101@email.com,(81) 97209-6511,1991-10-29,Feira de Santana,BA,Prospect,SF00000101,2018-02-07 00:00:00
+C00102,Customer Name 102,customer102@email.com,12-5272-7841,1988-09-18,Goiânia,GO,Prospect,SF00000102,2021-05-07 00:00:00
+C00103,Customer Name 103,customer103@email.com,(31) 98988-4475,1978-09-26,Maringá,PR,Prospect,SF00000103,2019-03-16 00:00:00
+C00104,Customer Name 104,customer104@email.com,(61) 95232-6576,1972-12-26,Santos,SP,Prospect,SF00000104,2021-10-04 00:00:00
+C00105,Customer Name 105,customer105@email.com,(51) 95526-1166,1965-03-02,Rio de Janeiro,RJ,Regular,SF00000105,2021-03-11 00:00:00
+C00106,Customer Name 106,customer106@email.com,(91) 94130-2402,1978-03-03,Curitiba,PR,Prospect,SF00000106,2023-02-05 00:00:00
+C00107,Customer Name 107,customer107@email.com,(41) 97658-9004,1960-12-07,Florianópolis,SC,VIP,SF00000107,2023-11-18 00:00:00
+C00108,Customer Name 108,customer108@email.com,(91) 94937-8800,1974-07-27,,,VIP,SF00000108,2023-07-17 00:00:00
+C00109,Customer Name 109,customer109@email.com,(81) 98342-1282,1967-09-16,Londrina,PR,VIP,SF00000109,2019-07-04 00:00:00
+C00110,Customer Name 110,customer110@email.com,(21) 95820-4630,1995-12-11,Salvador,BA,VIP,SF00000110,2023-08-28 00:00:00
+C00111,Customer Name 111,customer111@email.com,(71) 94986-6016,1987-09-23,Juiz de Fora,MG,Prospect,SF00000111,2023-04-02 00:00:00
+C00112,Customer Name 112,customer112@email.com,,1980-08-21,Anápolis,GO,Prospect,SF00000112,2021-01-22 00:00:00
+C00113,Customer Name 113,customer113@email.com,(61) 97971-6419,1997-04-27,Sorocaba,SP,Regular,SF00000113,2020-02-29 00:00:00
+C00114,Customer Name 114,customer114@email.com,,1990-12-07,Maringá,PR,Prospect,SF00000114,2019-04-07 00:00:00
+C00115,Customer Name 115,customer115@email.com,99-4350-7498,1976-03-25,Belo Horizonte,MG,VIP,SF00000115,2021-09-16 00:00:00
+C00116,Customer Name 116,customer116@email.com,(21) 94155-6169,1963-12-14,Rio de Janeiro,RJ,Prospect,SF00000116,2019-10-28 00:00:00
+C00117,Customer Name 117,customer117@email.com,(21) 99779-4033,1979-08-04,Curitiba,PR,Regular,SF00000117,2023-02-23 00:00:00
+C00118,Customer Name 118,customer118@email.com,(41) 94545-8933,1997-11-18,Caxias do Sul,RS,Prospect,SF00000118,2020-11-19 00:00:00
+C00119,Customer Name 119,customer119@email.com,(51) 99595-5636,1964-09-30,Belo Horizonte,MG,Prospect,SF00000119,2020-02-02 00:00:00
+C00120,Customer Name 120,customer120@email.com,(21) 94180-5853,1970-11-30,Florianópolis,SC,VIP,SF00000120,2018-02-27 00:00:00
+C00121,Customer Name 121,customer121@email.com,(41) 96912-3939,1979-07-18,Juiz de Fora,MG,Regular,SF00000121,2021-10-12 00:00:00
+C00122,Customer Name 122,customer122@email.com,(51) 91231-9751,1986-06-01,Sorocaba,SP,Prospect,SF00000122,2021-04-23 00:00:00
+C00123,Customer Name 123,customer123@email.com,(31) 95494-1745,1977-12-17,Florianópolis,SC,Prospect,SF00000123,2020-03-02 00:00:00
+C00124,Customer Name 124,customer124@email.com,(11) 95786-3068,1983-07-03,Anápolis,GO,Regular,SF00000124,2019-12-20 00:00:00
+C00125,Customer Name 125,customer125@email.com,(81) 92680-1200,1963-07-12,Campinas,SP,Prospect,SF00000125,2022-07-19 00:00:00
+C00126,Customer Name 126,customer126@email.com,57-2514-9775,1977-10-02,Niterói,RJ,Regular,SF00000126,2022-10-18 00:00:00
+C00127,Customer Name 127,customer127@email.com,(81) 96582-4020,1999-01-18,Florianópolis,SC,Regular,SF00000127,2023-10-12 00:00:00
+C00128,Customer Name 128,customer128@email.com,(11) 95136-8827,1973-12-01,Curitiba,PR,VIP,SF00000128,2021-09-05 00:00:00
+C00129,Customer Name 129,customer129@email.com,(21) 92070-7565,1993-06-15,Porto Alegre,RS,Prospect,SF00000129,2018-12-22 00:00:00
+C00130,Customer Name 130,customer130@email.com,(81) 92213-1878,1975-03-25,Sorocaba,SP,Regular,SF00000130,2022-06-30 00:00:00
+C00131,Customer Name 131,customer131@email.com,(31) 93444-5978,1969-12-09,Canoas,RS,Regular,SF00000131,2019-01-26 00:00:00
+C00132,Customer Name 132,customer132@email.com,(21) 95066-2940,1974-12-09,Petrópolis,RJ,Regular,SF00000132,2020-01-27 00:00:00
+C00133,Customer Name 133,customer133@email.com,(91) 97818-4697,1994-12-13,Niterói,RJ,VIP,SF00000133,2019-07-30 00:00:00
+C00134,Customer Name 134,customer134@email.com,(91) 97232-8381,1967-07-17,Goiânia,GO,Prospect,SF00000134,2023-05-10 00:00:00
+C00135,Customer Name 135,customer135@email.com,(81) 95871-8025,1963-06-05,Rio de Janeiro,RJ,VIP,SF00000135,2021-08-18 00:00:00
+C00136,Customer Name 136,customer136@email.com,(51) 91986-2625,1982-11-24,Uberlândia,MG,VIP,SF00000136,2020-10-13 00:00:00
+C00137,Customer Name 137,customer137@email.com,58-8639-9743,1988-05-27,Juiz de Fora,MG,Regular,SF00000137,2018-01-28 00:00:00
+C00138,Customer Name 138,customer138@email.com,(21) 93573-4929,1965-02-11,,,Regular,SF00000138,2020-12-04 00:00:00
+C00139,Customer Name 139,customer139@email.com,(31) 92229-3564,1983-10-20,Juiz de Fora,MG,Regular,SF00000139,2022-04-21 00:00:00
+C00140,Customer Name 140,customer140@email.com,(11) 97693-8381,1982-11-16,Maringá,PR,Regular,SF00000140,2020-08-22 00:00:00
+C00141,Customer Name 141,customer141@email.com,(81) 95771-1534,1968-09-11,Salvador,BA,VIP,SF00000141,2023-01-04 00:00:00
+C00142,Customer Name 142,customer142@email.com,(41) 95720-5632,2000-08-20,Canoas,RS,Regular,SF00000142,2020-12-29 00:00:00
+C00143,Customer Name 143,customer143@email.com,(81) 92166-4824,1994-10-26,Porto Alegre,RS,Prospect,SF00000143,2021-09-12 00:00:00
+C00144,Customer Name 144,customer144@email.com,(51) 94241-7965,1975-09-03,Londrina,PR,VIP,SF00000144,2021-05-21 00:00:00
+C00145,Customer Name 145,customer145@email.com,(21) 99922-4683,1975-10-01,Feira de Santana,BA,Regular,SF00000145,2018-02-16 00:00:00
+C00146,Customer Name 146,customer146@email.com,,1992-08-17,Florianópolis,SC,Prospect,SF00000146,2020-12-07 00:00:00
+C00147,Customer Name 147,customer147@email.com,(21) 91977-3718,1996-09-25,Anápolis,GO,Regular,SF00000147,2022-01-12 00:00:00
+C00148,Customer Name 148,customer148@email.com,(51) 95728-8195,1988-12-13,Goiânia,GO,Prospect,SF00000148,2020-08-25 00:00:00
+C00149,Customer Name 149,customer149@email.com,36-6455-5967,1996-07-23,Petrópolis,RJ,Regular,SF00000149,2018-09-12 00:00:00
+C00150,Customer Name 150,customer150@email.com,(71) 95460-9199,1966-08-16,Caxias do Sul,RS,Regular,SF00000150,2019-04-30 00:00:00
+C00151,Customer Name 151,customer151@email.com,(91) 99090-8172,1970-08-07,Porto Alegre,RS,VIP,SF00000151,2023-03-22 00:00:00
+C00152,Customer Name 152,customer152@email.com,(21) 91653-8078,1964-08-11,Petrópolis,RJ,Regular,SF00000152,2021-06-10 00:00:00
+C00153,Customer Name 153,customer153@email.com,(61) 95102-1423,1966-07-27,Blumenau,SC,Prospect,SF00000153,2019-10-17 00:00:00
+C00154,Customer Name 154,customer154@email.com,(21) 94750-1339,1971-06-25,São Paulo,SP,Prospect,SF00000154,2022-07-19 00:00:00
+C00155,Customer Name 155,customer155@email.com,(51) 91659-3870,1968-11-06,Canoas,RS,VIP,SF00000155,2023-08-21 00:00:00
+C00156,Customer Name 156,customer156@email.com,,1967-10-13,Caxias do Sul,RS,Regular,SF00000156,2021-06-27 00:00:00
+C00157,Customer Name 157,customer157@email.com,(51) 93973-8141,1987-01-08,São Paulo,SP,VIP,SF00000157,2019-04-26 00:00:00
+C00158,Customer Name 158,customer158@email.com,(81) 92494-8700,1966-11-09,Petrópolis,RJ,Regular,SF00000158,2021-04-23 00:00:00
+C00159,Customer Name 159,customer159@email.com,(61) 97690-6460,1994-02-06,São Paulo,SP,VIP,SF00000159,2022-02-14 00:00:00
+C00160,Customer Name 160,customer160@email.com,,1994-01-19,Caxias do Sul,RS,Regular,SF00000160,2020-06-23 00:00:00
+C00161,Customer Name 161,customer161@email.com,(61) 97744-9117,1989-05-27,Niterói,RJ,Regular,SF00000161,2020-06-16 00:00:00
+C00162,Customer Name 162,customer162@email.com,(51) 97561-1601,1963-05-19,São Paulo,SP,VIP,SF00000162,2019-07-02 00:00:00
+C00163,Customer Name 163,customer163@email.com,(81) 92442-6153,1967-12-12,Blumenau,SC,VIP,SF00000163,2023-05-13 00:00:00
+C00164,Customer Name 164,customer164@email.com,(51) 96296-2899,1994-09-01,Niterói,RJ,VIP,SF00000164,2019-09-20 00:00:00
+C00165,Customer Name 165,customer165@email.com,(71) 99431-1018,1988-03-02,Caxias do Sul,RS,VIP,SF00000165,2023-02-07 00:00:00
+C00166,Customer Name 166,customer166@email.com,(91) 98569-7770,1982-03-01,Londrina,PR,Regular,SF00000166,2022-03-11 00:00:00
+C00167,Customer Name 167,customer167@email.com,(11) 94073-9494,1980-10-23,Goiânia,GO,Regular,SF00000167,2022-08-31 00:00:00
+C00168,Customer Name 168,customer168@email.com,(61) 99167-8242,1993-11-03,Caxias do Sul,RS,Prospect,SF00000168,2023-04-13 00:00:00
+C00169,Customer Name 169,customer169@email.com,,1985-04-15,Belo Horizonte,MG,Regular,SF00000169,2020-06-13 00:00:00
+C00170,Customer Name 170,customer170@email.com,15-4625-3390,1994-01-31,Anápolis,GO,VIP,SF00000170,2020-10-10 00:00:00
+C00171,Customer Name 171,customer171@email.com,(81) 98941-2989,1985-12-29,Porto Alegre,RS,VIP,SF00000171,2018-12-02 00:00:00
+C00172,Customer Name 172,customer172@email.com,,1980-02-19,Goiânia,GO,Regular,SF00000172,2023-11-23 00:00:00
+C00173,Customer Name 173,customer173@email.com,(51) 91224-7684,1990-07-21,Feira de Santana,BA,Prospect,SF00000173,2023-01-04 00:00:00
+C00174,Customer Name 174,customer174@email.com,,1999-07-26,Porto Alegre,RS,Prospect,SF00000174,2023-12-04 00:00:00
+C00175,Customer Name 175,customer175@email.com,,1985-04-27,Rio de Janeiro,RJ,Regular,SF00000175,2022-01-21 00:00:00
+C00176,Customer Name 176,customer176@email.com,(81) 95781-9337,1988-11-03,Niterói,RJ,VIP,SF00000176,2018-11-16 00:00:00
+C00177,Customer Name 177,customer177@email.com,(51) 97807-8905,1988-06-30,Feira de Santana,BA,VIP,SF00000177,2019-04-05 00:00:00
+C00178,Customer Name 178,customer178@email.com,(81) 94993-8483,1988-01-06,Blumenau,SC,Regular,SF00000178,2018-09-10 00:00:00
+C00179,Customer Name 179,customer179@email.com,(91) 93369-7284,1974-07-01,Salvador,BA,Prospect,SF00000179,2023-09-02 00:00:00
+C00180,Customer Name 180,customer180@email.com,(41) 99327-3236,1998-10-07,Feira de Santana,BA,Regular,SF00000180,2020-04-08 00:00:00
+C00181,Customer Name 181,customer181@email.com,(21) 95526-7798,1988-02-19,Anápolis,GO,Regular,SF00000181,2019-09-06 00:00:00
+C00182,Customer Name 182,customer182@email.com,(61) 99318-5377,1974-03-07,Campinas,SP,Regular,SF00000182,2019-11-05 00:00:00
+C00183,Customer Name 183,customer183@email.com,(11) 95634-5891,1966-10-09,Rio de Janeiro,RJ,Regular,SF00000183,2021-09-05 00:00:00
+C00184,Customer Name 184,customer184@email.com,(81) 93434-8316,1979-09-23,São Paulo,SP,VIP,SF00000184,2023-11-02 00:00:00
+C00185,Customer Name 185,customer185@email.com,(91) 98935-6654,1963-01-23,Feira de Santana,BA,VIP,SF00000185,2022-12-15 00:00:00
+C00186,Customer Name 186,customer186@email.com,(61) 99903-7180,1981-01-12,Florianópolis,SC,Regular,SF00000186,2019-04-22 00:00:00
+C00187,Customer Name 187,customer187@email.com,(81) 96272-4090,1979-11-02,Niterói,RJ,Prospect,SF00000187,2020-04-21 00:00:00
+C00188,Customer Name 188,customer188@email.com,25-8846-4974,1988-04-27,Porto Alegre,RS,Regular,SF00000188,2023-06-26 00:00:00
+C00189,Customer Name 189,customer189@email.com,(71) 91715-6213,1973-08-01,Porto Alegre,RS,VIP,SF00000189,2019-01-08 00:00:00
+C00190,Customer Name 190,customer190@email.com,(81) 97246-7325,1995-09-21,Porto Alegre,RS,VIP,SF00000190,2023-09-22 00:00:00
+C00191,Customer Name 191,customer191@email.com,(31) 99115-1606,1972-04-27,Goiânia,GO,Prospect,SF00000191,2022-12-30 00:00:00
+C00192,Customer Name 192,customer192@email.com,(31) 99229-6439,1986-07-12,Uberlândia,MG,Regular,SF00000192,2018-08-16 00:00:00
+C00193,Customer Name 193,customer193@email.com,(21) 98213-2633,1962-07-09,Feira de Santana,BA,VIP,SF00000193,2023-02-01 00:00:00
+C00194,Customer Name 194,customer194@email.com,(91) 98486-1251,1975-10-15,Juiz de Fora,MG,VIP,SF00000194,2019-06-25 00:00:00
+C00195,Customer Name 195,customer195@email.com,(31) 97717-3529,1982-10-04,Londrina,PR,Regular,SF00000195,2023-10-04 00:00:00
+C00196,Customer Name 196,customer196@email.com,(21) 98692-5342,1963-04-30,Anápolis,GO,Regular,SF00000196,2022-08-29 00:00:00
+C00197,Customer Name 197,customer197@email.com,(61) 97512-2315,1973-12-03,Caxias do Sul,RS,Prospect,SF00000197,2023-02-15 00:00:00
+C00198,Customer Name 198,customer198@email.com,(61) 99742-7226,1980-09-17,Rio de Janeiro,RJ,Prospect,SF00000198,2018-08-25 00:00:00
+C00199,Customer Name 199,customer199@email.com,93-6886-6053,1980-04-09,Goiânia,GO,Prospect,SF00000199,2023-03-09 00:00:00
+C00200,Customer Name 200,customer200@email.com,(11) 92121-4846,1961-09-08,Niterói,RJ,Regular,SF00000200,2021-06-16 00:00:00
+C00201,Customer Name 201,customer201@email.com,(51) 94727-2480,1962-07-21,Santos,SP,Regular,SF00000201,2018-03-31 00:00:00
+C00202,Customer Name 202,customer202@email.com,(71) 92612-2646,1976-07-16,São Paulo,SP,Prospect,SF00000202,2022-06-10 00:00:00
+C00203,Customer Name 203,customer203@email.com,(81) 93725-5906,1997-04-22,Petrópolis,RJ,VIP,SF00000203,2020-11-08 00:00:00
+C00204,Customer Name 204,customer204@email.com,(11) 91753-6314,1972-11-16,Caxias do Sul,RS,VIP,SF00000204,2018-01-13 00:00:00
+C00205,Customer Name 205,customer205@email.com,(11) 95806-6873,1963-06-11,Uberlândia,MG,Regular,SF00000205,2020-06-11 00:00:00
+C00206,Customer Name 206,customer206@email.com,(61) 98056-3385,1988-12-01,Salvador,BA,VIP,SF00000206,2018-10-27 00:00:00
+C00207,Customer Name 207,customer207@email.com,(41) 99702-7751,1998-10-07,Anápolis,GO,Regular,SF00000207,2018-07-05 00:00:00
+C00208,Customer Name 208,customer208@email.com,(31) 93785-3868,1998-05-14,Anápolis,GO,Prospect,SF00000208,2022-10-02 00:00:00
+C00209,Customer Name 209,customer209@email.com,(21) 97267-4945,1964-01-19,Caxias do Sul,RS,Regular,SF00000209,2021-11-12 00:00:00
+C00210,Customer Name 210,customer210@email.com,(81) 93344-4804,1987-08-03,Feira de Santana,BA,Regular,SF00000210,2018-09-19 00:00:00
+C00211,Customer Name 211,customer211@email.com,(81) 95161-8529,1986-08-25,Sorocaba,SP,Regular,SF00000211,2018-09-04 00:00:00
+C00212,Customer Name 212,customer212@email.com,(51) 91153-8622,1982-09-29,Uberlândia,MG,VIP,SF00000212,2018-10-10 00:00:00
+C00213,Customer Name 213,customer213@email.com,(51) 99955-3588,1977-03-31,Salvador,BA,Regular,SF00000213,2023-04-18 00:00:00
+C00214,Customer Name 214,customer214@email.com,(21) 98237-6661,1980-10-03,Sorocaba,SP,VIP,SF00000214,2018-05-10 00:00:00
+C00215,Customer Name 215,customer215@email.com,(51) 97951-5097,1986-01-12,Feira de Santana,BA,Prospect,SF00000215,2021-03-21 00:00:00
+C00216,Customer Name 216,customer216@email.com,(81) 95949-4263,1984-11-11,Londrina,PR,Prospect,SF00000216,2022-08-02 00:00:00
+C00217,Customer Name 217,customer217@email.com,(71) 98916-2747,1995-07-09,Anápolis,GO,VIP,SF00000217,2020-01-08 00:00:00
+C00218,Customer Name 218,customer218@email.com,(41) 97248-6881,1993-02-22,Curitiba,PR,Regular,SF00000218,2019-07-09 00:00:00
+C00219,Customer Name 219,customer219@email.com,11-4470-4113,2000-03-09,Feira de Santana,BA,Prospect,SF00000219,2022-09-18 00:00:00
+C00220,Customer Name 220,customer220@email.com,(71) 95497-1132,1961-11-03,Goiânia,GO,Regular,SF00000220,2022-03-14 00:00:00
+C00221,Customer Name 221,customer221@email.com,(11) 99138-5689,1980-03-04,Uberlândia,MG,VIP,SF00000221,2022-04-16 00:00:00
+C00222,Customer Name 222,customer222@email.com,(41) 96772-4588,2000-10-10,Canoas,RS,Regular,SF00000222,2023-01-12 00:00:00
+C00223,Customer Name 223,customer223@email.com,,1996-04-29,Curitiba,PR,Prospect,SF00000223,2022-03-27 00:00:00
+C00224,Customer Name 224,customer224@email.com,58-1647-2192,1985-08-23,Canoas,RS,Regular,SF00000224,2022-03-19 00:00:00
+C00225,Customer Name 225,customer225@email.com,(81) 91546-6977,1989-03-28,Santos,SP,Prospect,SF00000225,2018-11-25 00:00:00
+C00226,Customer Name 226,customer226@email.com,(31) 92476-5835,1968-06-11,Santos,SP,Regular,SF00000226,2019-06-29 00:00:00
+C00227,Customer Name 227,customer227@email.com,(61) 97807-3877,1974-06-03,Florianópolis,SC,Prospect,SF00000227,2021-11-25 00:00:00
+C00228,Customer Name 228,customer228@email.com,(41) 93165-9837,1987-02-20,São Paulo,SP,Prospect,SF00000228,2019-05-01 00:00:00
+C00229,Customer Name 229,customer229@email.com,(61) 99697-9221,1981-05-02,Santos,SP,Prospect,SF00000229,2020-01-02 00:00:00
+C00230,Customer Name 230,customer230@email.com,(51) 93695-5210,1982-06-28,Anápolis,GO,VIP,SF00000230,2022-05-29 00:00:00
+C00231,Customer Name 231,customer231@email.com,(81) 95835-6549,1966-10-07,Uberlândia,MG,VIP,SF00000231,2023-12-07 00:00:00
+C00232,Customer Name 232,customer232@email.com,(21) 98673-2233,2025-12-12,Sorocaba,SP,VIP,SF00000232,2019-06-06 00:00:00
+C00233,Customer Name 233,customer233@email.com,(31) 94696-7511,1980-03-17,Petrópolis,RJ,Regular,SF00000233,2020-07-01 00:00:00
+C00234,Customer Name 234,customer234@email.com,(91) 96992-2479,1964-08-22,,,Regular,SF00000234,2018-01-15 00:00:00
+C00235,Customer Name 235,customer235@email.com,,1996-05-17,Niterói,RJ,Regular,SF00000235,2018-04-04 00:00:00
+C00236,Customer Name 236,customer236@email.com,(91) 93024-8451,2000-05-01,Rio de Janeiro,RJ,Prospect,SF00000236,2021-05-07 00:00:00
+C00237,Customer Name 237,customer237@email.com,(61) 95295-7242,1997-07-24,Canoas,RS,Regular,SF00000237,2023-03-12 00:00:00
+C00238,Customer Name 238,customer238@email.com,(61) 92775-4830,1975-05-28,Feira de Santana,BA,VIP,SF00000238,2022-10-04 00:00:00
+C00239,Customer Name 239,customer239@email.com,(81) 91410-6374,1992-01-16,Niterói,RJ,VIP,SF00000239,2023-12-19 00:00:00
+C00240,Customer Name 240,customer240@email.com,(41) 92035-8606,1963-10-13,Caxias do Sul,RS,Prospect,SF00000240,2022-04-03 00:00:00
+C00241,Customer Name 241,customer241@email.com,57-6126-7781,1982-08-19,São Paulo,SP,Prospect,SF00000241,2020-07-29 00:00:00
+C00242,Customer Name 242,customer242@email.com,(31) 91742-1609,1988-12-25,Petrópolis,RJ,Regular,SF00000242,2020-10-10 00:00:00
+C00243,Customer Name 243,customer243@email.com,(51) 99071-2902,1967-09-28,Feira de Santana,BA,Prospect,SF00000243,2023-03-02 00:00:00
+C00244,Customer Name 244,customer244@email.com,(21) 94846-9807,1961-10-03,Blumenau,SC,VIP,SF00000244,2021-11-18 00:00:00
+C00245,Customer Name 245,customer245@email.com,(31) 97367-8432,1971-02-11,Londrina,PR,VIP,SF00000245,2019-09-28 00:00:00
+C00246,Customer Name 246,customer246@email.com,(61) 99850-7866,1991-09-28,Caxias do Sul,RS,VIP,SF00000246,2021-02-03 00:00:00
+C00247,Customer Name 247,customer247@email.com,(31) 97797-2622,1979-08-21,Blumenau,SC,VIP,SF00000247,2020-02-12 00:00:00
+C00248,Customer Name 248,customer248@email.com,(81) 97686-5583,1979-09-17,Porto Alegre,RS,Prospect,SF00000248,2019-04-08 00:00:00
+C00249,Customer Name 249,customer249@email.com,(11) 97070-4559,1983-07-05,Curitiba,PR,Regular,SF00000249,2018-05-12 00:00:00
+C00250,Customer Name 250,customer250@email.com,34-4555-8854,1983-06-13,Feira de Santana,BA,Regular,SF00000250,2022-09-14 00:00:00
+C00251,Customer Name 251,customer251@email.com,(61) 92627-7018,1987-05-10,,,Prospect,SF00000251,2018-03-06 00:00:00
+C00252,Customer Name 252,customer252@email.com,47-3497-4214,2026-12-03,Maringá,PR,Regular,SF00000252,2020-09-12 00:00:00
+C00253,Customer Name 253,customer253@email.com,(71) 95520-4109,1976-04-28,Goiânia,GO,VIP,SF00000253,2020-04-24 00:00:00
+C00254,Customer Name 254,customer254@email.com,(21) 98450-2501,1976-09-21,Florianópolis,SC,Prospect,SF00000254,2018-10-03 00:00:00
+C00255,Customer Name 255,customer255@email.com,(41) 91349-1828,1972-09-08,Rio de Janeiro,RJ,Prospect,SF00000255,2019-02-18 00:00:00
+C00256,Customer Name 256,customer256@email.com,(61) 94990-3063,1977-05-18,Sorocaba,SP,VIP,SF00000256,2018-05-18 00:00:00
+C00257,Customer Name 257,customer257@email.com,(41) 92124-4394,1978-05-03,Goiânia,GO,Regular,SF00000257,2023-01-03 00:00:00
+C00258,Customer Name 258,customer258@email.com,(41) 94817-6383,1994-09-27,Rio de Janeiro,RJ,Prospect,SF00000258,2018-07-19 00:00:00
+C00259,Customer Name 259,customer259@email.com,(31) 91046-5542,1975-03-06,Rio de Janeiro,RJ,Regular,SF00000259,2020-09-29 00:00:00
+C00260,Customer Name 260,customer260@email.com,(31) 93129-9850,1990-06-15,Porto Alegre,RS,VIP,SF00000260,2018-07-01 00:00:00
+C00261,Customer Name 261,customer261@email.com,(51) 93858-2801,1986-10-26,Maringá,PR,Regular,SF00000261,2022-07-06 00:00:00
+C00262,Customer Name 262,customer262@email.com,(11) 93159-1243,1962-05-07,Uberlândia,MG,Prospect,SF00000262,2022-12-03 00:00:00
+C00263,Customer Name 263,customer263@email.com,(61) 94898-6304,1995-05-27,Joinville,SC,Prospect,SF00000263,2020-08-17 00:00:00
+C00264,Customer Name 264,customer264@email.com,(11) 93854-5347,1988-04-19,Niterói,RJ,Regular,SF00000264,2020-06-08 00:00:00
+C00265,Customer Name 265,customer265@email.com,(11) 93076-7897,1989-01-13,Canoas,RS,Prospect,SF00000265,2018-08-20 00:00:00
+C00266,Customer Name 266,customer266@email.com,(91) 92862-2041,1975-01-04,Florianópolis,SC,Regular,SF00000266,2019-07-28 00:00:00
+C00267,Customer Name 267,customer267@email.com,(81) 98344-6931,1962-12-15,Maringá,PR,Prospect,SF00000267,2023-08-26 00:00:00
+C00268,Customer Name 268,customer268@email.com,(91) 92786-8405,1974-10-15,Belo Horizonte,MG,Prospect,SF00000268,2021-03-30 00:00:00
+C00269,Customer Name 269,customer269@email.com,(91) 94629-1710,1964-03-28,Anápolis,GO,Prospect,SF00000269,2020-08-17 00:00:00
+C00270,Customer Name 270,customer270@email.com,70-6246-4328,1985-01-10,Londrina,PR,Regular,SF00000270,2021-07-30 00:00:00
+C00271,Customer Name 271,customer271@email.com,(11) 91996-8847,1990-06-06,Santos,SP,Prospect,SF00000271,2021-08-06 00:00:00
+C00272,Customer Name 272,customer272@email.com,(71) 97984-2768,1977-05-04,Londrina,PR,Prospect,SF00000272,2020-08-28 00:00:00
+C00273,Customer Name 273,customer273@email.com,(81) 98267-2204,1972-09-29,Rio de Janeiro,RJ,Regular,SF00000273,2021-05-21 00:00:00
+C00274,Customer Name 274,customer274@email.com,(21) 96277-3430,1971-04-21,Juiz de Fora,MG,Regular,SF00000274,2019-08-10 00:00:00
+C00275,Customer Name 275,customer275@email.com,(21) 93067-5505,1992-06-18,Curitiba,PR,VIP,SF00000275,2023-11-06 00:00:00
+C00276,Customer Name 276,customer276@email.com,(91) 96327-7240,1998-03-14,Petrópolis,RJ,Regular,SF00000276,2020-06-24 00:00:00
+C00277,Customer Name 277,customer277@email.com,(91) 95831-8433,1989-06-14,Niterói,RJ,Regular,SF00000277,2022-08-21 00:00:00
+C00278,Customer Name 278,customer278@email.com,(91) 98048-2624,2000-08-27,Uberlândia,MG,Prospect,SF00000278,2021-05-15 00:00:00
+C00279,Customer Name 279,customer279@email.com,(21) 94522-8046,1987-01-13,Londrina,PR,VIP,SF00000279,2021-02-01 00:00:00
+C00280,Customer Name 280,customer280@email.com,(81) 94743-7779,1999-03-04,Maringá,PR,Regular,SF00000280,2018-09-07 00:00:00
+C00281,Customer Name 281,customer281@email.com,,1966-09-29,Caxias do Sul,RS,Prospect,SF00000281,2019-12-19 00:00:00
+C00282,Customer Name 282,customer282@email.com,(71) 92557-6120,1974-12-14,,,Regular,SF00000282,2022-10-16 00:00:00
+C00283,Customer Name 283,customer283@email.com,(71) 96120-5176,1963-08-28,Porto Alegre,RS,Prospect,SF00000283,2023-07-24 00:00:00
+C00284,Customer Name 284,customer284@email.com,(61) 93500-8770,1986-02-20,Curitiba,PR,Prospect,SF00000284,2018-07-12 00:00:00
+C00285,Customer Name 285,customer285@email.com,(21) 92494-2398,1989-10-07,Goiânia,GO,Prospect,SF00000285,2021-11-11 00:00:00
+C00286,Customer Name 286,customer286@email.com,(21) 98075-2582,1966-05-06,Londrina,PR,VIP,SF00000286,2022-04-11 00:00:00
+C00287,Customer Name 287,customer287@email.com,(61) 93131-1982,1975-09-10,Sorocaba,SP,Prospect,SF00000287,2023-11-19 00:00:00
+C00288,Customer Name 288,customer288@email.com,(91) 96400-3002,1973-11-30,Petrópolis,RJ,Regular,SF00000288,2021-07-29 00:00:00
+C00289,Customer Name 289,customer289@email.com,(71) 96793-7929,1989-06-05,Salvador,BA,Regular,SF00000289,2022-09-02 00:00:00
+C00290,Customer Name 290,customer290@email.com,(11) 95712-6119,1991-05-01,Londrina,PR,Prospect,SF00000290,2022-07-31 00:00:00
+C00291,Customer Name 291,customer291@email.com,,1989-09-13,Santos,SP,Prospect,SF00000291,2019-09-04 00:00:00
+C00292,Customer Name 292,customer292@email.com,(41) 93535-8900,1977-07-31,Sorocaba,SP,Prospect,SF00000292,2021-05-13 00:00:00
+C00293,Customer Name 293,customer293@email.com,(41) 92773-6736,1965-10-13,Florianópolis,SC,VIP,SF00000293,2022-03-22 00:00:00
+C00294,Customer Name 294,customer294@email.com,(91) 97022-2882,1986-09-10,Juiz de Fora,MG,Prospect,SF00000294,2020-01-24 00:00:00
+C00295,Customer Name 295,customer295@email.com,(51) 94705-8030,1991-10-18,Londrina,PR,VIP,SF00000295,2023-04-24 00:00:00
+C00296,Customer Name 296,customer296@email.com,(91) 91430-5381,1963-10-20,Juiz de Fora,MG,Prospect,SF00000296,2020-09-14 00:00:00
+C00297,Customer Name 297,customer297@email.com,(11) 93955-5477,1973-11-20,Anápolis,GO,Regular,SF00000297,2020-07-12 00:00:00
+C00298,Customer Name 298,customer298@email.com,(51) 96567-6751,1985-01-26,Salvador,BA,VIP,SF00000298,2021-05-16 00:00:00
+C00299,Customer Name 299,customer299@email.com,(11) 93972-3347,2026-11-02,São Paulo,SP,Prospect,SF00000299,2019-08-15 00:00:00
+C00300,Customer Name 300,customer300@email.com,(71) 92140-3324,1988-11-11,Rio de Janeiro,RJ,Prospect,SF00000300,2023-03-12 00:00:00
+C00301,Customer Name 204,customer204@email.com,(11) 91753-6314,1972-11-16,Caxias do Sul,RS,VIP,SF00000301,2023-06-15 00:00:00
+C00302,Customer Name 267,customer267@email.com,,1962-12-15,Maringá,PR,Prospect,SF00000302,2023-10-22 00:00:00
+C00303,Customer Name 153,customer153@email.com,(61) 95102-1423,1966-07-27,Blumenau,SC,Prospect,SF00000303,2023-09-14 00:00:00
+C00304,Customer Name 10,customer10@email.com,(41) 95371-3608,1980-05-07,Santos,SP,Regular,SF00000304,2023-09-15 00:00:00
+C00305,Customer Name 234,customer234@email.com,(91) 96992-2479,1964-08-22,Juiz de Fora,MG,Regular,SF00000305,2023-10-21 00:00:00
+C00306,Customer Name 227,customer227@email.com,(61) 97807-3877,1974-06-03,Florianópolis,SC,Prospect,SF00000306,2023-10-14 00:00:00
+C00307,Customer Name 197,customer197@email.com,(61) 97512-2315,1973-12-03,Caxias do Sul,RS,Prospect,SF00000307,2023-07-05 00:00:00
+C00308,Customer Name 110,customer110@email.com,,1995-12-11,Salvador,BA,VIP,SF00000308,2023-09-08 00:00:00
+C00309,Customer Name 6,customer6@email.com,(21) 96794-7658,1983-10-18,Juiz de Fora,MG,VIP,SF00000309,2023-08-02 00:00:00
+C00310,Customer Name 176,customer176@email.com,(81) 95781-9337,1988-11-03,Niterói,RJ,VIP,SF00000310,2023-08-05 00:00:00
+C00311,Customer Name 238,customer238@email.com,(61) 92775-4830,1975-05-28,Feira de Santana,BA,VIP,SF00000311,2023-07-23 00:00:00
+C00312,Customer Name 58,customer58@email.com,(31) 93471-4788,1962-06-16,Canoas,RS,Prospect,SF00000312,2023-08-24 00:00:00
+C00313,Customer Name 219,customer219@email.com,,2000-03-09,Feira de Santana,BA,Prospect,SF00000313,2023-11-13 00:00:00
+C00314,Customer Name 46,customer46@email.com,(41) 93881-9486,1972-09-14,Caxias do Sul,RS,Regular,SF00000314,2023-06-21 00:00:00
+C00315,Customer Name 183,customer183@email.com,(11) 95634-5891,1966-10-09,Rio de Janeiro,RJ,Regular,SF00000315,2023-09-24 00:00:00

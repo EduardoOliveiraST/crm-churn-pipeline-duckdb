@@ -1,0 +1,38 @@
+# Virtual environments
+.venv/
+venv/
+
+# Environment files
+.env
+.env.*
+
+# Python cache / build
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Local databases / logs
+*.log
+*.db
+*.duckdb
+*.sqlite
+*.sqlite3
+
+# OS / Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Generated outputs
+output/*
+!output/.gitkeep
+
+# Optional test placeholder
+tests/*
+!tests/.gitkeep
