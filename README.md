@@ -208,16 +208,6 @@ Camadas:
 -   clean_transactions\
 -   clean_campaigns\
 -   churn_features
-
-------------------------------------------------------------------------
-
-## Diferenciais
-
--   abordagem real de consultoria\
--   decisões justificadas\
--   arquitetura limpa\
--   validação robusta
-
 ------------------------------------------------------------------------
 
 ## Evoluções
