@@ -148,17 +148,6 @@ Camadas:
 -   has_test_drive\
 -   avg_days_between_services
 
-------------------------------------------------------------------------
-
-## Validação dos resultados
-
-    Q1: PASS
-    Q2: PASS
-    Q3: PASS
-    Q4: PASS
-
-------------------------------------------------------------------------
-
 ## Fluxo de execução
 
 1.  valida config\
