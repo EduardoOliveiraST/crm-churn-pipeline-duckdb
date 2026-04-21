@@ -1,4 +1,4 @@
-# 🚀 CRM Churn Pipeline with DuckDB
+# CRM Churn Pipeline with DuckDB
 
 Pipeline de engenharia de dados que transforma dados brutos de CRM em
 uma base analítica confiável para **análise de churn**, com foco em
@@ -7,7 +7,7 @@ orientada a negócio**.
 
 ------------------------------------------------------------------------
 
-## 🧠 Storytelling (Contexto de consultoria)
+## Storytelling (Contexto de consultoria)
 
 Este projeto simula um cenário real de consultoria em engenharia de
 dados.
@@ -32,7 +32,7 @@ cada responsabilidade e garantindo rastreabilidade de todas as decisões.
 
 ------------------------------------------------------------------------
 
-## 🎯 Objetivo do projeto
+## Objetivo do projeto
 
 Construir um pipeline em Python + DuckDB capaz de:
 
@@ -46,7 +46,7 @@ Construir um pipeline em Python + DuckDB capaz de:
 
 ------------------------------------------------------------------------
 
-## 🏗️ Arquitetura do pipeline
+## Arquitetura do pipeline
 
 ``` mermaid
 flowchart TD
@@ -78,7 +78,7 @@ flowchart TD
 
 ------------------------------------------------------------------------
 
-## 📊 Data Quality First (diferencial do projeto)
+## Data Quality First (diferencial do projeto)
 
 Antes de qualquer transformação, o pipeline executa um diagnóstico
 completo de qualidade:
@@ -91,12 +91,12 @@ completo de qualidade:
 -   inconsistências temporais
 -   resumo executivo com impacto
 
-👉 Isso garante que **todas as decisões de cleaning são justificadas**,
+Isso garante que **todas as decisões de cleaning são justificadas**,
 e não arbitrárias.
 
 ------------------------------------------------------------------------
 
-## 🧩 Principais decisões técnicas
+## Principais decisões técnicas
 
 ### 1. Deduplicação de clientes
 
@@ -125,7 +125,7 @@ e não arbitrárias.
 
 ------------------------------------------------------------------------
 
-## 🧠 Modelagem analítica
+## Modelagem analítica
 
 Camadas:
 
@@ -137,7 +137,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 📈 Tabela final: churn_features
+## Tabela final: churn_features
 
 -   recency_days\
 -   interaction_count_90d\
@@ -150,7 +150,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## ✅ Validação dos resultados
+## Validação dos resultados
 
     Q1: PASS
     Q2: PASS
@@ -159,7 +159,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## ⚙️ Fluxo de execução
+## Fluxo de execução
 
 1.  valida config\
 2.  carrega dados\
@@ -172,7 +172,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 📂 Estrutura do projeto
+## Estrutura do projeto
 
     data-engineering-crm-pipeline/
         ├─ data/
@@ -196,7 +196,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 -   Python\
 -   DuckDB\
@@ -204,7 +204,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## ▶️ Como executar
+## Como executar
 
     python -m venv .venv
     pip install -r requirements.txt
@@ -212,7 +212,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 📦 Outputs
+## Outputs
 
 -   customer_360\
 -   clean_interactions\
@@ -222,7 +222,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 🔥 Diferenciais
+## Diferenciais
 
 -   abordagem real de consultoria\
 -   decisões justificadas\
@@ -231,7 +231,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 🚀 Evoluções
+## Evoluções
 
 -   testes\
 -   Airflow\
@@ -240,7 +240,7 @@ Camadas:
 
 ------------------------------------------------------------------------
 
-## 📌 Resumo
+## Resumo
 
 Pipeline completo de engenharia de dados focado em qualidade e valor
 analítico.
@@ -248,7 +248,7 @@ analítico.
 
 ------------------------------------------------------------------------
 
-## 🧩 Schema Design
+## Schema Design
 
 O modelo adotado segue uma abordagem em camadas (inspirada no padrão medalhão):
 
@@ -263,7 +263,7 @@ Essa separação garante:
 
 ------------------------------------------------------------------------
 
-## 📊 Assumptions
+## Assumptions
 
 Durante o desenvolvimento, algumas decisões foram tomadas:
 
@@ -275,7 +275,7 @@ Durante o desenvolvimento, algumas decisões foram tomadas:
 
 ------------------------------------------------------------------------
 
-## 😲 One Thing That Surprised Me
+## One Thing That Surprised Me
 
 A presença de **35 interações com datas futuras**, todas concentradas no `source_system = LEGACY_V2`, foi um achado inesperado.
 
@@ -283,7 +283,7 @@ Isso indicou fortemente um problema de ingestão ou ambiente de teste, e mostrou
 
 ------------------------------------------------------------------------
 
-## 🧠 Architecture Memo
+## Architecture Memo
 
 ### (A) Triggered Emails (SLA de 2 horas)
 
@@ -316,7 +316,7 @@ Isso indicou fortemente um problema de ingestão ou ambiente de teste, e mostrou
 
 ------------------------------------------------------------------------
 
-## 🚀 What I Would Do With More Time
+## What I Would Do With More Time
 
 - Implementar testes automatizados (unit + data tests)
 - Criar cargas incrementais
