@@ -157,7 +157,10 @@ def build_churn_features(con) -> None:
             -- Taxa de resposta (evita divisão por zero)
             CASE
                 WHEN COUNT(*) > 0 THEN
-                    SUM(CASE WHEN outcome = 'interested' THEN 1 ELSE 0 END) * 1.0 / COUNT(*)
+                    ROUND(
+                        100.0 * SUM(CASE WHEN outcome = 'interested' THEN 1 ELSE 0 END) / COUNT(*),
+                        2
+                    )
                 ELSE NULL
             END AS campaign_response_rate
         FROM campaign_interactions
